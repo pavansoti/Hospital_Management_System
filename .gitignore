@@ -1,0 +1,43 @@
+# Node.js
+/node_modules
+/dist
+/e2e
+
+# MacOS
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+/node/
+/node_modules/
+
+# Optional npm cache directory
+.angular/cache/
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Angular
+/angular.json
+/karma.conf.js
+/package-lock.json
+/tsconfig.json
+/tsconfig.spec.json
+*.service.spec.ts
+*.component.spec.ts
+
+# Spring Boot
+/target
+*.jar
+*.war
+*.iml
+
+# IDEs
+.idea/
+.vscode/
+*.swp
